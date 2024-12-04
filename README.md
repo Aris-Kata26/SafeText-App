@@ -1,2 +1,0 @@
-"# SafeText-App" 
-# SafeText-App
