@@ -45,7 +45,8 @@ python safeText.py
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/safetext/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Aris-Kata26/SafeText/issues) if you want to contribute.
+
 
 ## License
 
