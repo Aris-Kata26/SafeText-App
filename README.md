@@ -49,7 +49,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## License
 
-[MIT](https://lgk.lu/licenses/bts/)
+[LGK](https://lgk.lu/licenses/bts/)
 
 ## Disclaimer
 
